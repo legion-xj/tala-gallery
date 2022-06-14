@@ -1,0 +1,13 @@
+/* css reset */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1{
+	margin: 20px;
+	color: #C49C2E;
+	padding-bottom: 50px;
+	font-family: 'Playfair Display', serif;
+}
